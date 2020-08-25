@@ -1,7 +1,4 @@
-# "Borderless" Theme, Built with Gatsby
-
-- **[Documents (Korean)](<https://github.com/junhobaik/junhobaik.github.io/wiki/Document-(Borderless)>)**  
-- **[Documents (English)](<https://github.com/junhobaik/junhobaik.github.io/wiki/Document-(Borderless,-en)>)**
+# My personal website  
 
 ---
 
