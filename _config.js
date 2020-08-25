@@ -1,10 +1,10 @@
 module.exports = {
   /** Site MetaData (Required all)*/
-  title: `Title`,                           // (* Required)
+  title: `wonjun's blog`,                           // (* Required)
   description: `Blog Description`,          // (* Required)
-  author: `Author`,                         // (* Required)
+  author: `Wonjun Jeong`,                         // (* Required)
   language: 'ko-KR',                        // (* Required) html lang, ex. 'en' | 'en-US' | 'ko' | 'ko-KR' | ...
-  siteUrl: 'https://',                      // (* Required)
+  siteUrl: 'https://wonjun-dev.github.io',                      // (* Required)
     // ex.'https://junhobaik.github.io'
     // ex.'https://junhobaik.github.io/' << X, Do not enter "/" at the end.
 
@@ -14,16 +14,16 @@ module.exports = {
     // If the file does not exist, it is replaced by a random image.
 
   /** Home > Bio information*/
-  comment: 'Enter your information in the "./config.js" file. ',
-  name: 'User Name',
+  comment: 'Machine learning Engineer | Full stack developer',
+  name: 'Wonjun Jeong',
   company: '',
-  location: 'Korea',
-  email: '',
-  website: 'https://github.com/junhobaik/junhobaik.github.io',           // ex.'https://junhobaik.github.io'
-  linkedin: '',                                                          // ex.'https://www.linkedin.com/in/junho-baik-16073a19ab'
+  location: 'Seoul, Korea',
+  email: 'wonjun.email@gmail.com',
+  website: 'https://wonjun-dev.github.io',           // ex.'https://junhobaik.github.io'
+  linkedin: 'https://linkedin.com/in/wonjun-jeong',                                                          // ex.'https://www.linkedin.com/in/junho-baik-16073a19ab'
   facebook: '',                                                          // ex.'https://www.facebook.com/zuck' or 'https://www.facebook.com/profile.php?id=000000000000000'
-  instagram: '',                                                         // ex.'https://www.instagram.com/junhobaik'
-  github: '',                                                            // ex.'https://github.com/junhobaik'
+  instagram: 'https://www.instagram.com/wonjun.jg',                                                         // ex.'https://www.instagram.com/junhobaik'
+  github: 'https://github.com/wonjun-dev',                                                            // ex.'https://github.com/junhobaik'
 
   /** Post */
   enablePostOfContents: true,     // TableOfContents activation (Type of Value: Boolean. Not String)
