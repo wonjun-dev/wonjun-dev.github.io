@@ -14,7 +14,7 @@ module.exports = {
     // If the file does not exist, it is replaced by a random image.
 
   /** Home > Bio information*/
-  comment: 'Machine learning Engineer | Full stack developer',
+  comment: 'Machine learning Engineer | KAIST MLILAB MSc',
   name: 'Wonjun Jeong',
   company: '',
   location: 'Seoul, Korea',
