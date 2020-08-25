@@ -44,6 +44,7 @@ const gatsbyConfig = {
             options: {
               maxWidth: 590,
               loading: 'lazy',
+              showCaptions: true
             },
           },
           {
